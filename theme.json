@@ -1,6 +1,10 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 3,
-    "settings": {},
+    "settings": {
+        "appearanceTools": true,
+        "customLogo": true,
+        "customBackground": true,
+    },
     "styles": {}
 }
